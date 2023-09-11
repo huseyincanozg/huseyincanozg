@@ -1,8 +1,6 @@
 ### Hi there 👋
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&[https://github.com/huseyincanozg](https://github.com/huseyincanozg)=https://github.com/huseyincanozg)](https://github.com/huseyincanozg) 
-[<img width="22" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/2048px-Linkedin_icon.svg.png" align="left" />][linkedin]
-[<img width="22" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" align="left" />][instagram]
 
 
 ## My Stats
